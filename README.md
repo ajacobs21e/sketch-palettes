@@ -5,7 +5,7 @@ This fork is for my custom Sketch palettes. You can find them under Palettes/Cus
 ### Current Custom Palettes
 - [PatternFly 3.x Palette][1]
  - [Sketch File of Swatches][2]
- 
+
 ----
 
 # Sketch Palettes
@@ -40,5 +40,5 @@ If you have any questions, find a bug, or have ideas for ways to improve the plu
 
 Also, big thanks to <a href="https://twitter.com/wbobeirne" target="_blank">William O'Beirne</a> for helping me with some of the trickier parts, like making sense of the <a href="http://stevenygard.com/projects/class-dump/" target="_blank">class-dump</a> of Sketch, to figure out how to use undocumented Sketch functionality.
 
-[1]: sketch-palettes/Palettes/Custom/PatternFly3.sketchpalette
-[2]: sketch-palettes/Palettes/Custom/PFColorPalette.sketch
+[1]: https://github.com/mindreeper2420/sketch-palettes/tree/PatternFly3/Palettes/Custom/PatternFly3.sketchpalette
+[2]: https://github.com/mindreeper2420/sketch-palettes/tree/PatternFly3/Palettes/Custom/PFColorPalette.sketch
