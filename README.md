@@ -3,6 +3,9 @@
 This fork is for my custom Sketch palettes. You can find them under Palettes/Custom.
 
 ### Current Custom Palettes
+
+To download the files, you can Right Click -> Save As on the links below.
+
 - [PatternFly 3.x Palette][1]
  - [Sketch File of Swatches][2]
 
