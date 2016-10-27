@@ -1,3 +1,13 @@
+# Fork Information
+
+This fork is for my custom Sketch palettes. You can find them under Palettes/Custom.
+
+### Current Custom Palettes
+- [PatternFly 3.x Palette][1]
+ - [Sketch File of Swatches][2]
+ 
+----
+
 # Sketch Palettes
 
 A Sketch plugin that lets you save and load colors into the color picker.
@@ -29,3 +39,6 @@ Select "Clear Palette" to remove all colors from either the Global Colors sectio
 If you have any questions, find a bug, or have ideas for ways to improve the plugin, ping me on twitter: <a href="https://twitter.com/AndrewFiorillo" target="_blank">@andrewfiorillo</a>
 
 Also, big thanks to <a href="https://twitter.com/wbobeirne" target="_blank">William O'Beirne</a> for helping me with some of the trickier parts, like making sense of the <a href="http://stevenygard.com/projects/class-dump/" target="_blank">class-dump</a> of Sketch, to figure out how to use undocumented Sketch functionality.
+
+[1]: sketch-palettes/Palettes/Custom/PatternFly3.sketchpalette
+[2]: sketch-palettes/Palettes/Custom/PFColorPalette.sketch
